@@ -1,4 +1,4 @@
-# Personal Development notes for sutdents
+# Personal Development notes for students
 
 
 # Where to learn IT skills?
