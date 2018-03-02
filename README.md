@@ -3,6 +3,7 @@
 # Crash course on IT for IntBio students
 
 1. GitHub/Git
+
 2. Literature searching
 3. Literature reference managers
 4. Linux command line
