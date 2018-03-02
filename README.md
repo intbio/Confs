@@ -7,7 +7,7 @@
 2. Literature searching
 3. Literature reference managers
 4. Linux command line
-5. Basic Python
+5. Basic Python / Jupiter notebooks http://www.intbio.org/CBsem/19Feb2018_IT.html 
 
 
 
