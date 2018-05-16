@@ -1,5 +1,5 @@
-# Personal Development notes for students
+# List of conferences/workshops/seminars of interest
 
-## List of confernces and schools
+
 
 
